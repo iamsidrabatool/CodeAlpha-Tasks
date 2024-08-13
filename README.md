@@ -6,7 +6,7 @@ It supports basic conversational elements such as greetings, asking for the chat
 and location. Type 'quit' to exit the chat.
 
 
-                     --------------------------------------------------------------------------------------------------------------------------
+                     ----------------------------------------------------------------------------------------
                      
 
                       Task 2 🚀
@@ -14,7 +14,7 @@ I will be using Python programming language to create a Hangman Game. The game p
 The program checks every entry by the user to determine the provided character is available in the word or not and inform the player respectively.
 
 
-                  ------------------------------------------------------------------------------------------------------------------------------------
+                  ----------------------------------------------------------------------------------------------
 
-                       Task 2 🚀
-                       
+                       Task 3 🚀
+This Python script automates file organization by sorting files in a specified directory based on their file extensions. It checks if the directory exists, creates subfolders for each unique file extension, and moves files into their respective folders.
